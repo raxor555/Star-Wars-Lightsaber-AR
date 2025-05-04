@@ -15,7 +15,7 @@ A browser-based **Augmented Reality Lightsaber** built using **HTML, JavaScript,
 
 ## 🚀 Demo
 
-📽️ Watch it in action: [YouTube Demo](https://youtu.be/your-demo-video) 
+📽️ Watch it in action: (https://www.linkedin.com/posts/rayyan-shaikh-ai_augmentedreality-javascript-html-activity-7324820984606126080-0I-g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES7FvoBhKv0jhrbk0ZWy0t-oR73vhG0dZU)) 
 
 ---
 
